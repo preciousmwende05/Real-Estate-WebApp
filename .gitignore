@@ -1,0 +1,8 @@
+node_modules/
+dist/
+.env
+venv/
+__pycache__/
+*.pyc
+server/uploads/properties/*
+!server/uploads/properties/.gitkeep
